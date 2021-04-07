@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MBI Calculator</string>
+    <string name="bmi_image">bmi_image</string>
+    <string name="your_Name">Your Name</string>
+    <string name="gender_Hint">Gender</string>
+    <string name="age_Hint">Age</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="weight_hint">Weight (Kg)</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="your_bmi_result">Your BMI Result</string>
+    <string name="btn_back">Back</string>
+    <string name="underWeight">Body Mass Deficit</string>
+    <string name="normal">Normal Body Mass</string>
+    <string name="pre_obesity">Excessive Body Mass</string>
+    <string name="obesity_1st_Degree">Obesity 1st Degree(Moderately Obese)</string>
+    <string name="obesity_2nd_Degree">Obesity 2nd Degree(Severely Obese)</string>
+    <string name="obesity_3rd_Degree">Obesity 3rd Degree(Very Severely Obese)</string>
+</resources>
