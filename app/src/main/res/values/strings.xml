@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MBI Calculator</string>
+    <string name="app_name">BMI Calculator</string>
     <string name="bmi_image">bmi_image</string>
     <string name="your_Name">Your Name</string>
     <string name="gender_Hint">Gender</string>
